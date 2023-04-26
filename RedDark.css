@@ -10,15 +10,15 @@
 
 :root {
     /* Color palette */
-    --wildberry-primary: #170027;
-    --wildberry-secondary: #350058;
-    --wildberry-secondary-alt:#F40174;
-    --wildberry-tertiary: #4c007c;
-    --wildberry-accent-color : #00ffb7;
-    --wildberry-input-box: #350058;
-    --wildberry-mention:  #97004c;
-    --wildberry-red: #ff6c5c;
-    --wildberry-svg: #F40174;
+    --wildberry-primary: #222222;
+    --wildberry-secondary: #222222;
+    --wildberry-secondary-alt:#575757;
+    --wildberry-tertiary: #4A464D;
+    --wildberry-accent-color : #FF0000;
+    --wildberry-input-box: #FF0000;
+    --wildberry-mention:  #FF0000;
+    --wildberry-red: #FF0000;
+    --wildberry-svg: #FF0000;
     --wildberry-less-hot: #cc0066;
 
     /* Scrollbar */
@@ -199,7 +199,7 @@ html.theme-light::before {
 }
 
 .theme-dark .expandedFolderIconWrapper-1xLaU- {
-  color: white;
+  color: red;
 }
 
 /* User Area */
